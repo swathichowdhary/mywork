@@ -1,0 +1,8 @@
+.celtofah{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 30x; 
+    margin: 2%;
+    gap: 8px;
+}

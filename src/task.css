@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+/* .weatherapp{
+    background-color: aquamarine;
+} */
+#wed{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
+.weatherdata{
+    display:flex;
+    gap: 50px;
+    padding-left: 100px;
+}
+.currentweather{
+    width:50%;
+    border: 2px solid black;
+    background-color: rgba(0, 55, 255, 0.616);
+}
+.details{
+     padding-left: 90px;
+     padding-top: 20px;
+}
+.weathercards{
+    display: flex;
+    gap:30px;
+    margin: 2%;
+    padding-left: 2%;
+}
+.card{
+    background-color: rgba(128, 128, 128, 0.87);
+    border-radius: 5px;
+    color: white;
+}
+.icon{
+       padding-left: 90px;
+     padding-top: 20px;
+}
